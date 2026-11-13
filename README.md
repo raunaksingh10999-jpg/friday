@@ -1,0 +1,2 @@
+# friday
+personal ai ttool
